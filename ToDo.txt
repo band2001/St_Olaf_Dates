@@ -1,0 +1,6 @@
+1) In the profile class, we should create a string username variable that 
+can be either user generated (or random) that does not necessarily need to 
+be displayed but would be used in naming the text files with their data as 
+well as to name the photos they upload.
+
+2) Finalize Profile class
